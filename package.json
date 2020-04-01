@@ -1,0 +1,14 @@
+{
+  "name": "promise-tests",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node test/example",
+    "test": "promises-aplus-tests test/my-adapter"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "*"
+  },
+  "author": "",
+  "license": "ISC"
+}
